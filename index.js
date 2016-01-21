@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-deploy-scout'
+  name: 'ember-cli-deploy-scout-pack'
 };

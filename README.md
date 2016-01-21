@@ -1,4 +1,4 @@
-# ember-cli-deploy-scout
+# ember-cli-deploy-scout-pack
 
 > An ember-cli-deploy plugin pack for Scout
 
@@ -8,7 +8,7 @@ It also has a blueprint for your `config/deploy.js` file to get you started.
 
 ```
 ember install ember-cli-deploy
-ember install ember-cli-deploy-scout
+ember install ember-cli-deploy-scout-pack
 ```
 
 The necessary set of plugins will be available to ember-cli-deploy and an example `deploy/config.js` file will be generated for you to customize with information for your deployment environments.
