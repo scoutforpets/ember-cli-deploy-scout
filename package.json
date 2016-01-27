@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-deploy-scout-pack",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "ember-cli-deploy plugin pack for Scout",
   "scripts": {},
   "repository": "https://github.com/scoutforpets/ember-cli-deploy-scout-pack",
@@ -14,9 +14,10 @@
     "ember-cli-release": "0.2.6"
   },
   "dependencies": {
-    "ember-cli-deploy-azure-blob": "0.1.1",
+    "ember-cli-deploy-azure-blob": "0.2.0",
     "ember-cli-deploy-build": "0.1.0",
     "ember-cli-deploy-display-revisions": "0.1.0",
+    "ember-cli-deploy-gzip": "0.1.1",
     "ember-cli-deploy-manifest": "0.1.0",
     "ember-cli-deploy-redis": "0.1.1",
     "ember-cli-deploy-revision-data": "0.1.0"
