@@ -2,9 +2,9 @@
 
 > An ember-cli-deploy plugin pack for Scout
 
-This plugin pack is different from the core [ember-cli-deploy-lightning-pack](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack) in that it relies on Azure Blob Storage rather than Amazon S3.
+**BREAKING CHANGE:** This deployment pack now relies on Azure Table Storage rather than Redis.
 
-It also has a blueprint for your `config/deploy.js` file to get you started.
+This plugin pack is different from the core [ember-cli-deploy-lightning-pack](https://github.com/ember-cli-deploy/ember-cli-deploy-lightning-pack) in that it relies on Azure Blob/Table Storage rather than Amazon S3/Redis.
 
 ## Installation
 
@@ -17,10 +17,9 @@ The necessary set of plugins will be available to ember-cli-deploy and an exampl
 
 ## What plugins are made available?
 
+* [ember-cli-deploy-azure](https://github.com/duizendnegen/ember-cli-deploy-azure)
 * [ember-cli-deploy-build](https://github.com/ember-cli-deploy/ember-cli-deploy-build)
 * [ember-cli-deploy-display-revisions](https://github.com/ember-cli-deploy/ember-cli-deploy-display-revisions)
-* [ember-cli-deploy-redis](https://github.com/ember-cli-deploy/ember-cli-deploy-redis)
 * [ember-cli-deploy-manifest](https://github.com/ember-cli-deploy/ember-cli-deploy-manifest)
 * [ember-cli-deploy-revision-data](https://github.com/ember-cli-deploy/ember-cli-deploy-revision-data)
-* [ember-cli-deploy-azure-blob](https://github.com/duizendnegen/ember-cli-deploy-azure-blob)
 * [ember-cli-deploy-gzip](https://github.com/ember-cli-deploy/ember-cli-deploy-gzip)
