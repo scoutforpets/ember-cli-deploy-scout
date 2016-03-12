@@ -16,8 +16,8 @@
   "dependencies": {
     "ember-cli-deploy-azure": "0.2.6",
     "ember-cli-deploy-build": "0.1.1",
-    "ember-cli-deploy-display-revisions": "0.1.1",
-    "ember-cli-deploy-gzip": "0.2.1",
+    "ember-cli-deploy-display-revisions": "0.1.2",
+    "ember-cli-deploy-gzip": "0.2.2",
     "ember-cli-deploy-manifest": "0.1.1",
     "ember-cli-deploy-revision-data": "0.1.1"
   },
