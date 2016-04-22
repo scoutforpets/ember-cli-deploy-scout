@@ -14,7 +14,8 @@
     "ember-cli-release": "0.2.6"
   },
   "dependencies": {
-    "ember-cli-deploy-azure": "0.2.6",
+    "ember-cli-deploy-azure-blob": "0.2.1",
+    "ember-cli-deploy-azure-tables": "github:scoutforpets/ember-cli-deploy-azure-tables",
     "ember-cli-deploy-build": "0.1.1",
     "ember-cli-deploy-display-revisions": "0.2.1",
     "ember-cli-deploy-gzip": "0.2.3",
