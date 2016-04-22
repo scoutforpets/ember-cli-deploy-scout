@@ -17,7 +17,8 @@ The necessary set of plugins will be available to ember-cli-deploy and an exampl
 
 ## What plugins are made available?
 
-* [ember-cli-deploy-azure](https://github.com/duizendnegen/ember-cli-deploy-azure)
+* [ember-cli-deploy-azure-tables](https://github.com/duizendnegen/ember-cli-deploy-azure-tables)
+* [ember-cli-deploy-azure-blob](https://github.com/duizendnegen/ember-cli-deploy-azure-blob)
 * [ember-cli-deploy-build](https://github.com/ember-cli-deploy/ember-cli-deploy-build)
 * [ember-cli-deploy-display-revisions](https://github.com/ember-cli-deploy/ember-cli-deploy-display-revisions)
 * [ember-cli-deploy-manifest](https://github.com/ember-cli-deploy/ember-cli-deploy-manifest)
