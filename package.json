@@ -10,17 +10,17 @@
   "author": "James Dixon <james@scoutforpets.com>",
   "license": "MIT",
   "devDependencies": {
-    "ember-cli": "0.2.7",
-    "ember-cli-release": "0.2.6"
+    "ember-cli": "2.9.1",
+    "ember-cli-release": "1.0.0-beta.2"
   },
   "dependencies": {
-    "ember-cli-deploy-azure-blob": "0.2.1",
+    "ember-cli-deploy-azure-blob": "0.2.2",
     "ember-cli-deploy-azure-tables": "github:scoutforpets/ember-cli-deploy-azure-tables",
     "ember-cli-deploy-build": "0.1.1",
-    "ember-cli-deploy-display-revisions": "0.2.1",
+    "ember-cli-deploy-display-revisions": "0.2.2",
     "ember-cli-deploy-gzip": "0.2.3",
     "ember-cli-deploy-manifest": "0.1.1",
-    "ember-cli-deploy-revision-data": "0.2.1"
+    "ember-cli-deploy-revision-data": "0.3.2"
   },
   "keywords": [
     "ember-addon",
